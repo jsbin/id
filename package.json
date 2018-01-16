@@ -1,0 +1,15 @@
+{
+  "name": "jsbin-id",
+  "version": "1.0.0",
+  "description": "JS Bin standard slug generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Remy Sharp",
+  "license": "MIT",
+  "dependencies": {
+    "haikunator": "^2.0.0"
+  }
+}
